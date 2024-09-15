@@ -1,0 +1,4 @@
+
+./plex/config/*
+./plex/media/*
+./plex/transcode/*
